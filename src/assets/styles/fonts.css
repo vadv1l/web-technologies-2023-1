@@ -21,3 +21,10 @@
          url("/static/fonts/Inter-Regular.woff2") format("woff");
     font-weight: 400;
 }
+
+@font-face {
+    font-family: "Genshin_Impact";
+    src: local('Genshin Impact'),
+    url("/static/fonts/Genshin_Impact.ttf") format("truetype");
+    font-weight: 500;
+}
